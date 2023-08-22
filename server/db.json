@@ -1,0 +1,76 @@
+{
+  "schedule":{
+    "first-year": {
+      "web1": {
+        "monday":
+          {
+            "subject1": "Литература",
+            "subject2": "Математика",
+            "subject3": "Математика",
+            "subject4": "Математика"
+          }
+        , "tuesday":
+          {
+            "subject1": "Математика",
+            "subject2": "Математика",
+            "subject3": "Математика",
+            "subject4": "Математика"
+          }
+
+      },
+      "web2": {
+        "monday": [
+          {
+            "subject1": "Математика",
+            "subject2": "Математика",
+            "subject3": "Математика",
+            "subject4": "Математика"
+          }
+        ], "tuesday": [
+          {
+            "subject1": "Математика",
+            "subject2": "Математика",
+            "subject3": "Математика",
+            "subject4": "Математика"
+          }
+        ]
+      }
+    },
+    "second-year": {
+      "web1": {
+        "monday":
+        {
+          "subject1": "Англ",
+          "subject2": "Математика",
+          "subject3": "Математика",
+          "subject4": "Математика"
+        }
+      , "tuesday":
+        {
+          "subject1": "Математика",
+          "subject2": "Математика",
+          "subject3": "Математика",
+          "subject4": "Математика"
+        }
+
+      },
+      "web2": {
+        "monday": [
+          {
+            "subject1": "Математика",
+            "subject2": "Математика",
+            "subject3": "Математика",
+            "subject4": "Математика"
+          }
+        ], "tuesday": [
+          {
+            "subject1": "Математика",
+            "subject2": "Математика",
+            "subject3": "Математика",
+            "subject4": "Математика"
+          }
+        ]
+      }
+    }
+  }
+}
